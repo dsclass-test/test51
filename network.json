@@ -11,7 +11,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "raw_data.csv",
+            "source": "satisfactionSurvey.csv",
             "target": "clean.R"
         },
         {
@@ -27,7 +27,7 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
+            "name": "satisfactionSurvey.csv"
         },
         {
             "name": "clean.R"
@@ -36,6 +36,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-12-10 16:19:09",
+    "updated_at": "2018-12-10 16:19:37",
     "url": "https://github.com/dsclass-test/test51"
 }
